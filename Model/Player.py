@@ -38,3 +38,6 @@ class Player:
     def getTitle(){
         return this.title
     }
+    def george(){
+        return "george"
+    }
